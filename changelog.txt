@@ -1,0 +1,4 @@
+🔧 Cập nhật phiên bản 1.2.0:
+- Sửa lỗi không khởi động trên Windows 11.
+- Thêm tính năng kiểm tra và tự động cập nhật.
+- Giao diện mới, trực quan hơn.
